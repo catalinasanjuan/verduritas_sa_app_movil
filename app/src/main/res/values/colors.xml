@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_gradient">#C3E5AE</color>
+    <color name="light_gradient">#F7E7CE</color>
+    <color name="button_start">#7CB88C</color>
+    <color name="button_border">#5E976F</color>
+    <color name="background_view">#EAF4E3</color>
+    <color name="text_start">#324E32</color>
+    <color name="text_interior">#527252</color>
+    <color name="google_button_background">#FFFFFF</color>
+    <color name="google_button_text">#424242</color>
+    <color name="google_button_border">#B0BEC5</color>
+
+</resources>
